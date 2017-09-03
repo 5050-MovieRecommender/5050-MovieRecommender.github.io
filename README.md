@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 50-50 Movie Recommender System
 
-You can use the [editor on GitHub](https://github.com/5050-MovieRecommender/movierecommender.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This script introduces the concept of combining collaborative techniques with the a personality test so to provide more personalized movie recommendations.
 
-### Markdown
+Using the renowned Movielens dataset and the Big Five Personality test, this system managed to improve the normal Movie Recommendation experience by 3.62%.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### My publications
 
-# Header 1
-## Header 2
-### Header 3
+Here are the paper publications :
 
-- Bulleted
-- List
+- On ihu.edu.gr: [The 50/50 recommender: personality in movie recommender systems](https://repository.ihu.edu.gr/xmlui/handle/11544/15259)
+- On springer.com: [The 50/50 Recommender: A Method Incorporating Personality into Movie Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-319-65172-9_42)
+- On Google Books: [The 50/50 Recommender: A Method Incorporating Personality into Movie Recommender Systems](https://books.google.gr/books?id=gR8vDwAAQBAJ&pg=PA501&lpg=PA501&dq=50%2050%20recommender&source=bl&ots=JoJ1RfJjvj&sig=PpBpu8lKVVExvvUMFD27w3SmnD8&hl=el&sa=X&ved=0ahUKEwjmh_z0sonWAhXhApoKHYCEAq4Q6AEIUjAF#v=onepage&q=50%2050%20recommender&f=false)
 
-1. Numbered
-2. List
+Here is my dissertation :
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- On ihu.edu.gr: [THE 50/50 RECOMMENDER: PERSONALITY IN MOVIE RECOMMENDER SYSTEMS](https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/15259/The%2050_50%20Recommender%20System%20Dissertation-Nalmpantis%20Orestis.pdf?sequence=1)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Support
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/5050-MovieRecommender/movierecommender.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Having trouble with the code? Check out our [Wiki](https://github.com/5050-MovieRecommender/movie-recommender/wiki), create an [issue](https://github.com/5050-MovieRecommender/movie-recommender/issues) and we’ll help you sort it out.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Reach me out at [Linkdn profile](https://gr.linkedin.com/in/orestisnalmpantis)
