@@ -26,4 +26,4 @@ Having trouble with the code? Check out our [Wiki](https://github.com/5050-Movie
 
 ### Contact
 
-Reach me out at [Linkdn profile](https://gr.linkedin.com/in/orestisnalmpantis)
+Reach me out at [Linkedin profile](https://gr.linkedin.com/in/orestisnalmpantis)
